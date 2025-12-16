@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: AiChat
+
+server:
+  port: 8080
+
+knife4j:
+  enable: true
+
+springdoc:
+  api-docs:
+    enabled: true
+
+ark:
+  api-key: e37b71cc-357f-46fb-bf9c-ea4e833a77ad
+  bot-id: bot-20251129133556-r6jng
